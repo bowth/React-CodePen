@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Online-Code-Editor.git/static/css/main.7d2118c4.chunk.css",
+    "main.js": "/Online-Code-Editor.git/static/js/main.c467d7d3.chunk.js",
+    "main.js.map": "/Online-Code-Editor.git/static/js/main.c467d7d3.chunk.js.map",
+    "runtime-main.js": "/Online-Code-Editor.git/static/js/runtime-main.44e8705e.js",
+    "runtime-main.js.map": "/Online-Code-Editor.git/static/js/runtime-main.44e8705e.js.map",
+    "static/css/2.c46397a6.chunk.css": "/Online-Code-Editor.git/static/css/2.c46397a6.chunk.css",
+    "static/js/2.4254f81d.chunk.js": "/Online-Code-Editor.git/static/js/2.4254f81d.chunk.js",
+    "static/js/2.4254f81d.chunk.js.map": "/Online-Code-Editor.git/static/js/2.4254f81d.chunk.js.map",
+    "index.html": "/Online-Code-Editor.git/index.html",
+    "precache-manifest.300cd6ef851b23d19bc57aefb2e52642.js": "/Online-Code-Editor.git/precache-manifest.300cd6ef851b23d19bc57aefb2e52642.js",
+    "service-worker.js": "/Online-Code-Editor.git/service-worker.js",
+    "static/css/2.c46397a6.chunk.css.map": "/Online-Code-Editor.git/static/css/2.c46397a6.chunk.css.map",
+    "static/css/main.7d2118c4.chunk.css.map": "/Online-Code-Editor.git/static/css/main.7d2118c4.chunk.css.map",
+    "static/js/2.4254f81d.chunk.js.LICENSE.txt": "/Online-Code-Editor.git/static/js/2.4254f81d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44e8705e.js",
+    "static/css/2.c46397a6.chunk.css",
+    "static/js/2.4254f81d.chunk.js",
+    "static/css/main.7d2118c4.chunk.css",
+    "static/js/main.c467d7d3.chunk.js"
+  ]
+}
