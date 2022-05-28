@@ -1,6 +1,8 @@
 Proje terminalinde şunları çalıştırabilirsiniz:
 npm start
 
+react-scriots dosyaları yüklü değilse, bu komutu çalıştırın ve uygulamayı yeniden başlatmayı deneyin: npm i react-scripts
+
 Uygulamayı geliştirme modunda çalıştırır.
 Tarayıcıda görüntülemek için http://localhost:3000 dosyasını açın.
 
